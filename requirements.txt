@@ -1,2 +1,6 @@
 streamlit
 PyMuPDF
+streamlit
+PyMuPDF
+python-docx
+chardet
