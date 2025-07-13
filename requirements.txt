@@ -12,4 +12,5 @@ nltk
 # nltk_data should be installed separately using nltk.download() in your Python environment
 pandas
 numpy
+pdfplumber
 
