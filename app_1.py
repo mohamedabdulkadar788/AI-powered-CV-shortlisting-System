@@ -94,7 +94,7 @@ def load_model():
 model = load_model()
 
 st.set_page_config(page_title="CV Shortlisting System", layout="wide")
-st.title("📄 CV Shortlisting System - Proz Technologies")
+# st.title("📄 CV Shortlisting System - Proz Technologies")
 
 st.markdown("Upload 1 **Job Description** file and up to **5 CVs**. We'll shortlist candidates based on semantic similarity using vector embeddings.")
 
