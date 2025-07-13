@@ -4,3 +4,12 @@ streamlit
 PyMuPDF
 python-docx
 chardet
+fastapi 
+uvicorn 
+sentence-transformers 
+scikit-learn
+nltk
+# nltk_data should be installed separately using nltk.download() in your Python environment
+pandas
+numpy
+
